@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Jesna Jacob
 
-<!--
-**Jesnajacob/jesnajacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Student | 📊 Data Analytics Enthusiast  
+💡 Interested in Data Analytics, Artificial Intelligence, and Machine Learning  
+🐍 Working with Python, SQL,Java and Data Analysis tools  
+📈 Passionate about turning data into meaningful insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Data Analytics
+- Machine Learning
+- SQL
+- Data Visualization
+- Java (Basics)
+
+---
+
+## 📚 Currently Learning
+- Data Analytics
+- JAVA
+- Artificial Intelligence
+- Agile development Methodologies
+- Machine Learning Models
+- Data Visualization Techniques  
+
+---
+
+## 📊 Tools & Technologies
+Python | Pandas | NumPy | Matplotlib | Scikit-learn | SQL | Jupyter Notebook | Netbeans |
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/jesnajacob
+
+---
+
+⭐ *Exploring data, building models, and learning something new every day.*
