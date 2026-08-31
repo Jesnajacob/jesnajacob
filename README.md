@@ -1,5 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jesna+Jacob;MSc+Computer+Science+Student;Data+Analytics+Enthusiast;Turning+data+into+insights) 👋, I'm Jesna Jacob
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jesna+Jacob;MSc+Computer+Science+Student;Data+Analytics+Enthusiast;Turning+data+into+insights)
 🎓 MSc Computer Science Student | 📊 Data Analytics Enthusiast  
 💡 Interested in Data Analytics, Artificial Intelligence, and Machine Learning  
 🐍 Working with Python, SQL,Java and Data Analysis tools  
